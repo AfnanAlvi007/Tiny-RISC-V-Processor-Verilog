@@ -179,11 +179,7 @@ The waveform verification demonstrates:
 - Memory access
 - Write-back stage
 
-### Simulation Waveform
 
-![Tiny RISC-V GTKWave Verification](images/tinyriscv_gtk_waveform_verification.png)
-
----
 
 ## Project Files
 
